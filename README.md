@@ -8,4 +8,5 @@ Este é um projeto de exemplo demonstrativo de API feita em Spring Boot que real
 ## Pré-requisitos da instalação
 - Java JDK
 - Postgres
-- Spring
+- Spring (versão 17.07.1)
+
