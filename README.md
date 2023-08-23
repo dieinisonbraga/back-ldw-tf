@@ -2,6 +2,10 @@
 Este é um projeto de exemplo demonstrativo de API feita em Spring Boot que realiza um CRUD.
 
 ## Tecnologias Utilizadas
-- Java
+- Eclipse IDE
 - Spring Boot
-- PostGres
+
+## Pré-requisitos da instalação
+- Java JDK
+- Postgres
+- Spring Boot Toolkit
